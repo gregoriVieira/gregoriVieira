@@ -18,7 +18,7 @@ Pleasure, my name is Gregori, adventurous, curious and ecstatic about the world 
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
  
-<hr />
+<hr/>
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=gregoriVieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriVieira&layout=compact&langs_count=7&theme=dracula"/>
