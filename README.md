@@ -1,7 +1,9 @@
 ## Hello, my name is Gregori. 👋
 
 #### 😄 About me:
-Pleasure, my name is Gregori, adventurous, curious and ecstatic about the world of technology, I love taking care of my health and getting into big challenges, I always try to achviment my goals and always look for teamwork to achieve them.
+Pleasure, my name is Gregori, adventurous, curious and ecstatic about the world of technology, I love taking care of my health and getting into big challenges, I always try to achviment my goals and always look for teamwork to achieve them. 
+
+Today i'm working as a Team Leader.
 
 #### 📫 How to reach me:
 
